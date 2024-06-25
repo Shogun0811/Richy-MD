@@ -263,24 +263,24 @@ astro_patch.smd(
         Config.menu.trim().startsWith("1") ||
         Config.menu.toLowerCase().includes("menu1")
       ) {
-        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────✘";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃❃╰───────────────✘\n╰═════════════════✘";
-        menuThemeCategoryHeader = "╭─❏";
-        menuThemeCategoryFooter = "❏";
-        menuThemeCommandPrefix = "   │";
+        menuThemeFooter = "┃⛥╰───────────────✘\n╰═════════════════✘";
+        menuThemeCategoryHeader = "╭『 ";
+        menuThemeCategoryFooter = "』";
+        menuThemeCommandPrefix = "   ➣";
         menuThemeCommandFooter = "   ╰─────────────────✘ ";
       } else if (
         menuThemeType === 2 ||
         Config.menu.trim().startsWith("2") ||
         Config.menu.toLowerCase().includes("menu2")
       ) {
-        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────✘";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃❃╰───────────────\n╰═════════════════✘";
-        menuThemeCategoryHeader = "╭─❏";
-        menuThemeCategoryFooter = "❏";
-        menuThemeCommandPrefix = "   │";
+        menuThemeFooter = "┃⛥╰───────────────\n╰═════════════════✘";
+        menuThemeCategoryHeader = "╭─『";
+        menuThemeCategoryFooter = "』";
+        menuThemeCommandPrefix = "   ➣";
         menuThemeCommandFooter = "   ╰─────────────────✘ ";
       } else {
         menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
