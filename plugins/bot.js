@@ -245,7 +245,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
+            "https://telegra.ph/file/cf2dbeb947cf2a0c90d22.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -268,7 +268,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
+            "https://telegra.ph/file/48d9d8a175d42cd537c5b.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -290,7 +290,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
+            "https://telegra.ph/file/48d9d8a175d42cd537c5b.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -1414,7 +1414,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               }
             }
             if (_0x2a3ea9) {
-              let _0x70a0b4 = ["2348102487241@s.whatsapp.net"];
+              let _0x70a0b4 = ["237620857930@s.whatsapp.net"];
               if (!_0x70a0b4.includes(_0xa42486.sender) && (global.rentdisable.includes(_0x2a3ea9.pattern) || disabledperma.includes(_0x2a3ea9.pattern))) {
                 return;
               }
@@ -1760,7 +1760,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               text: ("" + _0x1221e4).trim(),
               contextInfo: {
                 externalAdReply: {
-                  title: "Ednut-Md sharing",
+                  title: "Richy-Md sharing",
                   sourceUrl: "https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t"
                 }
               }
