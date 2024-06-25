@@ -1,15 +1,15 @@
 {
-    "name": "Ednut-Md",
+    "name": "Richy-Md",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
-    "keywords": ["Ednut-Md", "Ednut", "Ednut-Md bot"],
+    "logo": "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
+    "keywords": ["Richy-Md", "Richy", "Richy-Md bot"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for owner",
-        "value": "Ednut",
+        "value": "SLG",
         "required": true
       },
       "WELCOME": {
@@ -29,7 +29,7 @@
       "BOT_NAME": {
         "description": "Bot name here.",
         "required": false,
-        "value": "Ednut-Md"
+        "value": "RICHY-Md"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -92,7 +92,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348102487241"
+        "value": "237620857930"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -104,7 +104,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Ednut-Md",
+        "value": "Richy-Md",
         "required": false
       },
       "PACK_AUTHER": {
