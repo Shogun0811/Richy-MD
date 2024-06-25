@@ -126,7 +126,7 @@ smd({
   pattern: "chat",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Ednut>",
+  use: "<Hii, Richy>",
   filename: __filename
 }, async (_0x1c0160, _0x482db1) => {
   try {
@@ -697,7 +697,7 @@ smd({
                 text: _0x3f6b59,
                 mentions: [_0x2ecd2a.reciever]
               }, {
-                quoted: _0x2ecd2a.senderMsg
+                quoted: _0x2ecd2a.senderMsg 
               });
               if (_0x2ecd2a.howmanyreply >= 2) {
                 isAnnonyMsgAlive = isAnnonyMsgAlive.replace("," + _0x2acf30.sender, "");
