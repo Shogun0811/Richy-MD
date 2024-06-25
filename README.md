@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/GEEKMD099"><img title="Author" src="https://img.shields.io/badge/GEEKMD099-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237620857930"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://chat.whatsapp.com/Hn2TSfshdvq4X5yDc4uBmj"><img title="Author" src="https://img.shields.io/badge/SUPPORT GC-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo"><img title="Author" src="https://img.shields.io/badge/SUPPORT GC-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://t.me/@ednut_x"><img    title="Author" src="https://img.shields.io/badge/CHAT ME-black?style=for-the-badge&logo=Telegram"></a>
 <p/>
 <p align="center">
