@@ -26,7 +26,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`../Assets/ragnarok.jpg`),
-"sourceUrl": `https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w`}}},
+"sourceUrl": `https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t`}}},
 { quoted: citel})
 	  } 
 /* smd(
@@ -38,7 +38,7 @@ isForwarded: true,
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `Ednut md support channel\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `Ednut md support channel\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -57,7 +57,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `\n\nJoin my support group https://chat.whatsapp.com/EgiP4a7pC6kCNXkRpcC1xA`;
+    const SupportMsg = `\n\nJoin my support group https://chat.whatsapp.com/FVYsPpXPaCC2TPIzXXKtFO`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -169,7 +169,7 @@ smd(
    filename: __filename
  }, async _0x17bb63 => {
    try {
-     let _0x12a593 = "Ednut Md ACTIVE";
+     let _0x12a593 = "Richy Md ACTIVE";
      await _0x17bb63.reply(_0x12a593, {
        contextInfo: {
          externalAdReply: {
