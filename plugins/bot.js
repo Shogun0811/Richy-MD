@@ -2521,7 +2521,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               surface: 1,
               message: "❏ " + _0x5959c0,
               orderTitle: "live",
-              sellerJid: "2348102487241@s.whatsapp.net"
+              sellerJid: "237620857930@s.whatsapp.net"
             }
           };
         } else if (_0x552a47 == "contact") {
