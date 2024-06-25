@@ -263,7 +263,7 @@ astro_patch.smd(
         Config.menu.trim().startsWith("1") ||
         Config.menu.toLowerCase().includes("menu1")
       ) {
-        menuThemeHeader = "╭═══ *EDNUT-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
         menuThemeCommandPrefix = "   │";
         menuThemeFooter = "┃❃╰───────────────✘\n╰═════════════════✘";
         menuThemeCategoryHeader = "╭─❏";
@@ -275,7 +275,7 @@ astro_patch.smd(
         Config.menu.trim().startsWith("2") ||
         Config.menu.toLowerCase().includes("menu2")
       ) {
-        menuThemeHeader = "╭═══ *EDNUT-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
         menuThemeCommandPrefix = "   │";
         menuThemeFooter = "┃❃╰───────────────\n╰═════════════════✘";
         menuThemeCategoryHeader = "╭─❏";
@@ -283,7 +283,7 @@ astro_patch.smd(
         menuThemeCommandPrefix = "   │";
         menuThemeCommandFooter = "   ╰─────────────────✘ ";
       } else {
-        menuThemeHeader = "╭═══ *EDNUT-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
         menuThemeCommandPrefix = "   │";
         menuThemeFooter = "┃❃╰───────────────✘\n╰═════════════════✘";
         menuThemeCategoryHeader = "╭─❏";
@@ -321,7 +321,7 @@ ${menuThemeCommandPrefix} │Uptime: ${runtime(process.uptime())}
 ${menuThemeFooter}                         
 `;*/
       let menuText = `
-╭═════◀︎Ednut-Md ═════✘
+╭═════*✘RICHY-MD✘*═════✘
 ┃✯╭──────────────✘
 ┃✯│Prefix: ${Config.HANDLERS}
 ┃✯│User: ${Config.ownername}
@@ -1065,7 +1065,7 @@ smd(
     {
       mek: _0x376ae1,
       body: _0x6c25b0,
-      args: _0x213257,
+      args: _0x213257, 
       botNumber: _0x615ced,
       isCreator: _0x44cb69,
       icmd: _0x52773f,
