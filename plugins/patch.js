@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`EDNUT MD SUCCESSFULL COMPLETED✅`");
+        return await message.send("`RICHY MD SUCCESSFULL COMPLETED✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -599,7 +599,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
+            "https://telegra.ph/file/612d8a7d4d13fb2418d41.png",
             {
               responseType: "arraybuffer",
             }
@@ -615,7 +615,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Ednut-Md\n\n*Speed:* ${pingSeconds} seconds`;
+          const captionText = `Richy-Md\n\n*Speed:* ${pingSeconds} seconds`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -684,11 +684,11 @@ smd(
 
       const ramUsage = process.memoryUsage().heapTotal / 1024 / 1024;
 
-      const message = `*Ednut-Md good as new:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
+      const message = `*Richy-Md good as new:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
       const contextInfo = {
         isForwarded: false,
         //forwardingScore: 999,
-        title: "Ednut-Md alive Since",
+        title: "RICHY-Md alive Since",
         body: message,
         footerText: "Ednut-Md",
         isSendNotificationMsg: true,
@@ -796,7 +796,7 @@ astro_patch.cmd(
       }
       if (!_0x5eb566) {
         return await _0x15cc76.reply(
-          "*Please Give Me Text. Example: _" + prefix + "trt en Who is ednut_*"
+          "*Please Give Me Text. Example: _" + prefix + "trt en Who is richy_*"
         );
       }
       var _0x443df8 = await translatte(_0x5eb566, {
