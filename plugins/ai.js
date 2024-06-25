@@ -393,11 +393,11 @@ const {
       pattern: "chat",
       desc: "chat with an AI",
       category: "ai",
-      use: "<Hii, EDNUT>",
+      use: "<Hii, Richy>",
       filename: __filename,
     },
     async (_0x1c0160, _0x482db1) => {
-        let ednut = "Ednut ᴄʜᴀᴛ ʙᴏᴛ"
+        let ednut = "Richy ᴄʜᴀᴛ ʙᴏᴛ"
       try {
         return _0x1c0160.reply(await aiResponce(_0x1c0160, "chat", _0x482db1));
       } catch (_0x4adf95) {
@@ -415,7 +415,7 @@ const {
       alias: ["dall", "dall-e"],
       desc: "chat with an AI",
       category: "ai",
-      use: "<Hii, Ednut>",
+      use: "<Hii, Richy>",
       filename: __filename,
     },
     async (m, q) => {
@@ -645,7 +645,7 @@ const {
       alias: ["recognition", "anonychat"],
       desc: "Send message Annonymously",
       category: "ai",
-      use: "<Hii, Ednut>",
+      use: "<Hii, Richy>",
       filename: __filename,
     },
     async (_0x358984, _0x20693a, { smd: _0x12d243 }) => {
