@@ -36,7 +36,8 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 
 3. Get Session ID (SCAN QR)
     <br>
-<a href='https://ednut-md-session.onrender.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<h2><strong>Use paring code QR doe's not work for a moment</strong></h2>
+<a href='https://geek-paring-code.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 #### DEPLOY TO HEROKU
@@ -78,7 +79,7 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 - and you're good to go.
   
 
-- Star ⭐ the repo if you like EDNUT-MD.
+- Star ⭐ the repo if you like RICHY-MD.
 
    
 ## WARNING
