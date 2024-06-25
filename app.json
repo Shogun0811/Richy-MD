@@ -23,7 +23,7 @@
         "required": false
       },
       "MENU": {
-        "description": "choose 1, 2, 3",
+        "description": "choose 1, 2",
         "value": "1"
       },
       "BOT_NAME": {
