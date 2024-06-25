@@ -75,7 +75,7 @@ const {
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*EDNUT-MD IG STALKER*
+\t*RICHY-MD IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -1152,7 +1152,7 @@ smd(
          : "";
        if (!_0x1c586e) {
          return await _0x1ae8f8.reply(
-           "Kindly Provide Repo Url, .gitclone https://github.com/Ednut001/Ednut-Md"
+           "Kindly Provide Repo Url, .gitclone https://github.com/GEEKMD099/Richy-MD"
          );
        }
        const _0x5906ab =
@@ -1202,7 +1202,7 @@ smd(
    try {
      let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
      if (!_0x204f81) {
-       return _0x55aba2.reply("Eg : .tts Hi,I am Ednut-Md whatsapp bot");
+       return _0x55aba2.reply("Eg : .tts Hi,I am RICHY-Md whatsapp bot");
      }
      try {
        let _0x1974d5 = _0x56da6b ? _0x56da6b.split(" ")[0].toLowerCase() : "en";
@@ -1253,7 +1253,7 @@ smd(
    try {
      let _0x53783b = ("" + (_0x3c482f ? _0x3c482f : _0x272f8d.reply_text)).split(" ")[0].toLowerCase().trim();
      if (!_0x53783b || !_0x53783b.toLowerCase().startsWith("http")) {
-       return _0x272f8d.reply("Give me Video Link, " + prefix + "downmp4 https://telegra.ph/file/d90855d13352c8aae3981.mp4");
+       return _0x272f8d.reply("Give me Video Link, " + prefix + "downmp4 https://telegra.ph/file/612d8a7d4d13fb2418d41.mp4");
      }
      var _0x1e4a34 = _0x3c482f.toLowerCase().includes("doc") ? "document" : "video";
      await _0x272f8d.bot.sendMessage(_0x272f8d.chat, {
@@ -1368,9 +1368,9 @@ smd(
                mentionedJid: [m.sender],
                externalAdReply: {
                title: "↺ |◁   II   ▷|   ♡",
-               body: `EDNUT-MD playing: ${result.title}`,
+               body: `RICHY-MD playing: ${result.title}`,
                thumbnailUrl: thumbnailUrl,
-               sourceUrl: "https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K",
+               sourceUrl: "https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t",
                mediaType: 1,
                renderLargerThumbnail: true
                }
