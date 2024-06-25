@@ -41,7 +41,7 @@ db.get = async () => {
 };
 db.update = async _0x19934a => {
   try {
-    const _0x370f4c = "./Ednut.json";
+    const _0x370f4c = "./Richy.json";
     const _0x50546d = db.get();
     const _0x456e8c = {
       ..._0x50546d,
@@ -1761,7 +1761,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               contextInfo: {
                 externalAdReply: {
                   title: "Ednut-Md sharing",
-                  sourceUrl: "https://chat.whatsapp.com/Iy6k2EQPsn3EbqeaiZjB9e"
+                  sourceUrl: "https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t"
                 }
               }
             }, {
