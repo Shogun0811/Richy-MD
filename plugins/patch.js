@@ -263,13 +263,13 @@ astro_patch.smd(
         Config.menu.trim().startsWith("1") ||
         Config.menu.toLowerCase().includes("menu1")
       ) {
-        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────⊷";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃⛥╰───────────────✘\n╰═════════════════✘";
+        menuThemeFooter = "┃⛥╰───────────────⊷\n╰═════════════════⊷";
         menuThemeCategoryHeader = "╭『 ";
         menuThemeCategoryFooter = "』";
         menuThemeCommandPrefix = "   ➣";
-        menuThemeCommandFooter = "   ╰─────────────────✘ ";
+        menuThemeCommandFooter = "   ╰─────────────────⊷ ";
       } else if (
         menuThemeType === 2 ||
         Config.menu.trim().startsWith("2") ||
@@ -277,19 +277,19 @@ astro_patch.smd(
       ) {
         menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────✘";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃⛥╰───────────────\n╰═════════════════✘";
+        menuThemeFooter = "┃⛥╰───────────────\n╰═════════════════⊷";
         menuThemeCategoryHeader = "╭─『";
         menuThemeCategoryFooter = "』";
         menuThemeCommandPrefix = "   ➣";
-        menuThemeCommandFooter = "   ╰─────────────────✘ ";
+        menuThemeCommandFooter = "   ╰─────────────────⊷ ";
       } else {
-        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃❃╭──────────────✘";
+        menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────⊷";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃❃╰───────────────✘\n╰═════════════════✘";
-        menuThemeCategoryHeader = "╭─❏";
-        menuThemeCategoryFooter = "❏";
-        menuThemeCommandPrefix = "   │";
-        menuThemeCommandFooter = "   ╰─────────────────✘ ";
+        menuThemeFooter = "┃⛥╰───────────────⊷\n╰═════════════════✘";
+        menuThemeCategoryHeader = "╭─『";
+        menuThemeCategoryFooter = "』";
+        menuThemeCommandPrefix = "   ➣";
+        menuThemeCommandFooter = "   ╰─────────────────⊷ ";
       }
 
       const categorizedCommands = {};
@@ -321,19 +321,19 @@ ${menuThemeCommandPrefix} │Uptime: ${runtime(process.uptime())}
 ${menuThemeFooter}                         
 `;*/
       let menuText = `
-╭═════*✘RICHY-MD✘*═════✘
-┃✯╭──────────────✘
-┃✯│Prefix: ${Config.HANDLERS}
-┃✯│User: ${Config.ownername}
-┃✯│ᴛɪᴍᴇ: ${currentTime}
-┃✯│ᴅᴀᴛᴇ: ${currentDate}
-┃✯│Version: 1.0.0
-┃✯│Plugins: 400+
-┃✯│Ram: ${formatp(os.totalmem() - os.freemem())} 
-┃✯│Uptime: ${runtime(process.uptime())}
-┃✯|Maintainer: Ednut001
-┃✯╰─────────✘
-╰═════════════════✘
+╭═════✘RICHY-MD✘═════⊷
+┃⛥╭──────────────⊷
+┃⛥│Prefix: ${Config.HANDLERS}
+┃⛥│User: ${Config.ownername}
+┃⛥│ᴛɪᴍᴇ: ${currentTime}
+┃⛥│ᴅᴀᴛᴇ: ${currentDate}
+┃⛥│Version: 1.0.0
+┃⛥│Plugins: 400+
+┃⛥│Ram: ${formatp(os.totalmem() - os.freemem())} 
+┃⛥│Uptime: ${runtime(process.uptime())}
+┃⛥|Maintainer: SLG
+┃⛥╰─────────⊷
+╰═════════════════⊷
       `
 
       for (const category in categorizedCommands) {
@@ -576,7 +576,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
+            "https://telegra.ph/file/cf2dbeb947cf2a0c90d22.jpg",
             {
               responseType: "arraybuffer",
             }
