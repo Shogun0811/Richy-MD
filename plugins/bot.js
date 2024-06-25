@@ -245,7 +245,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
+            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -262,13 +262,13 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Ednut-Md\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\Ednut-Md`;
+          const captionText = `Richy-Md\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\Richy-Md`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
+            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -284,13 +284,13 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Ednut-Md \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nEdnut-Md`;
+          const captionText = `Ednut-Md \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nRichy-Md`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/2f30334adc87517e435c1.png",
+            "https://telegra.ph/file/782e3cbe7c157e425e98a.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -306,7 +306,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Ednut-Md \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nEdnut-Md `;
+          const captionText = `Richy-Md \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nRichy-Md `;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -817,7 +817,7 @@ smd({
       }, {
         autobio: _0x1f0ea7
       });
-      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By Ednut-MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
+      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By Richy-MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
       await _0x50364b.bot.updateProfileStatus(_0x347b23);
       return await _0x50364b.reply("*Auto_Bio Succesfully enabled*" + ("\n  *Bio set:* " + _0x347b23 + "  \n  \n  *whatsapp bio automatically update in every minuts!*\n  "));
     }
@@ -838,7 +838,7 @@ smd({
       abioJob = cron.schedule("*/1.5 * * * *", async () => {
         try {
           var _0x4b4b3b = "`";
-          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By Ednut-Md, ⏰Time: @time 🚀@bot" : bio.autobio;
+          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By RICHY-Md, ⏰Time: @time 🚀@bot" : bio.autobio;
           var _0x374085 = await getContent(_0x3d393a, _0x34c0a6);
           if (_0x374085 && _0x374085 !== "false") {
             await _0x3d393a.bot.updateProfileStatus(_0x374085);
@@ -1222,7 +1222,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
         }).child({
           level: "silent"
         }),
-        browser: _0x235024.type === "pair" ? ["Mac OS", "Safari", "3.1.0"] : ["Share [EDNUT] by [" + Config.ownername + "]", "Chrome", "1.0.0"],
+        browser: _0x235024.type === "pair" ? ["Mac OS", "Safari", "3.1.0"] : ["Share [RICHY] by [" + Config.ownername + "]", "Chrome", "1.0.0"],
         generateHighQualityLinkPreview: true,
         markOnlineOnConnect: false,
         auth: {
@@ -1724,7 +1724,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 let _0x5e5dd0 = fs.readFileSync(_0x3c1a40);
                 if (!_0x181a7a && _0x5e5dd0) {
                   _0x181a7a = Buffer.from(_0x5e5dd0).toString("base64");
-                  let _0x5b0adb = "┌───⭓\n❒ *[Ednut-Md sharing ]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
+                  let _0x5b0adb = "┌───⭓\n❒ *[Richy-Md sharing ]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
                   await _0x1a9455.sendMessage(_0x459047, {
                     text: "Asta;;;" + _0x181a7a
                   });
@@ -1748,7 +1748,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
             }
             print("RENT BOT :  ✅ Whatsapp Login Successful!");
             global.renters.push(_0x1a9455);
-            let _0x1221e4 = "┌───⭓\n❒  [Ednut-Md sharebot running ] \n❒  Prefix : [ " + (prefix || "null") + " ]\n❒  Mode : " + Config.WORKTYPE + "\n❒  Plugins : " + events.commands.length + "";
+            let _0x1221e4 = "┌───⭓\n❒  [Richy-Md sharebot running ] \n❒  Prefix : [ " + (prefix || "null") + " ]\n❒  Mode : " + Config.WORKTYPE + "\n❒  Plugins : " + events.commands.length + "";
             await _0x8bf7a7.reply("*SHARE MODE*\n*Now @" + _0x517212 + " Have own whatsapp bot!*:", {
               mentions: [_0x459047]
             }, "smd");
