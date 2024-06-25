@@ -139,14 +139,14 @@ smd({
   pattern: "gpt",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Ednut>",
+  use: "<Hii, Richy>",
   filename: __filename
 }, async (_0x5cb388, _0x302ad5) => {
   try {
     try {
       let _0x557719 = _0x302ad5 ? _0x302ad5 : bot.reply_text;
       if (!_0x557719) {
-        return man.reply("Ask me a question ex Who is Ednut?");
+        return man.reply("Ask me a question ex Who is Richy?");
       }
       const _0x50c8d3 = await fetch("https://aemt.me/openai?text=" + _0x557719);
       const _0x14c9d6 = await _0x50c8d3.json();
@@ -175,7 +175,7 @@ smd({
   try {
     let _0x1b0897 = _0x3f3887 ? _0x3f3887 : _0x42b3b8.reply_text;
     if (!_0x1b0897) {
-      return _0x42b3b8.reply("Ask me a question ex Who is Ednut");
+      return _0x42b3b8.reply("Ask me a question ex Who is Richy");
     }
     const _0x4c275e = await fetch("https://aemt.me/openai?text=" + _0x1b0897);
     const _0x4743c3 = await _0x4c275e.json();
@@ -193,7 +193,7 @@ smd({
   alias: ["dall", "dall-e"],
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, Ednut>",
+  use: "<Hii, Richy>",
   filename: __filename
 }, async (_0x21be87, _0x17d498) => {
   try {
@@ -728,7 +728,7 @@ smd({
   pattern: "aitts",
   desc: "Text to Voice Using Eleven Lab Ai",
   category: "ai",
-  use: "<Hii, Ednut>",
+  use: "<Hii, Richy>",
   filename: __filename
 }, async (_0x1a01af, _0x1ac85a) => {
   await aitts(_0x1a01af, _0x1ac85a || _0x1a01af.reply_text);
