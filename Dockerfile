@@ -1,6 +1,6 @@
 FROM quay.io/taira_makino/taira_tech:latest
 
-RUN git clone https://github.com/Ednut001/Ednut-md /root/Anonphoenix007
+RUN git clone https://github.com/GEEKMD099/Richy-md /root/Anonphoenix007
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
