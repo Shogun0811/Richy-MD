@@ -26,7 +26,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`../Assets/ragnarok.jpg`),
-"sourceUrl": `https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t`}}},
+"sourceUrl": `https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a`}}},
 { quoted: citel})
 	  } 
 /* smd(
@@ -38,7 +38,7 @@ isForwarded: true,
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `Ednut md support channel\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `Ednut md support channel\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -57,7 +57,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `\n\nJoin my support group https://chat.whatsapp.com/FVYsPpXPaCC2TPIzXXKtFO`;
+    const SupportMsg = `\n\nJoin my support group https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo`;
 
     const contextInfo = {
       forwardingScore: 999,
