@@ -285,7 +285,7 @@ astro_patch.smd(
       } else {
         menuThemeHeader = "╭═══ *RICHY-MD* ═══⊷\n┃⛥╭──────────────⊷";
         menuThemeCommandPrefix = "   │";
-        menuThemeFooter = "┃⛥╰───────────────⊷\n╰═════════════════✘";
+        menuThemeFooter = "┃⛥╰───────────────⊷\n╰═════════════════❍";
         menuThemeCategoryHeader = "╭─『";
         menuThemeCategoryFooter = "』";
         menuThemeCommandPrefix = "   ➣";
@@ -321,18 +321,18 @@ ${menuThemeCommandPrefix} │Uptime: ${runtime(process.uptime())}
 ${menuThemeFooter}                         
 `;*/
       let menuText = `
-╭═════✘RICHY-MD✘═════⊷
-┃⛥╭──────────────⊷
-┃⛥│Prefix: ${Config.HANDLERS}
-┃⛥│User: ${Config.ownername}
-┃⛥│ᴛɪᴍᴇ: ${currentTime}
-┃⛥│ᴅᴀᴛᴇ: ${currentDate}
-┃⛥│Version: 1.0.0
+╭═════❖𝙍𝙄𝘾𝙃𝙔-𝙈𝘿❖═════⊷
+┃❍╭──────────────❍
+┃⛥|➣Prefix: ${Config.HANDLERS}
+┃⛥│➣User: ${Config.ownername}
+┃⛥│➣ᴛɪᴍᴇ: ${currentTime}
+┃⛥│➣ᴅᴀᴛᴇ: ${currentDate}
+┃⛥│➣Version: 1.0.0
 ┃⛥│Plugins: 400+
-┃⛥│Ram: ${formatp(os.totalmem() - os.freemem())} 
-┃⛥│Uptime: ${runtime(process.uptime())}
-┃⛥|Maintainer: SLG
-┃⛥╰─────────⊷
+┃⛥│➣Ram: ${formatp(os.totalmem() - os.freemem())} 
+┃⛥│➣Uptime: ${runtime(process.uptime())}
+┃⛥|➣Develloper: SLG
+┃❍╰─────────❍
 ╰═════════════════⊷
       `
 
