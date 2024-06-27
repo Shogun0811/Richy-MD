@@ -57,7 +57,7 @@ smd(
   async (message, match, { cmdName }) => {
     try {
       if (!match)
-        return message.reply(`*_Example : ${prefix + cmdName} Ednut-Md_*`);
+        return message.reply(`*_Example : ${prefix + cmdName} Richy-Md_*`);
       await require(lib_dir).textToLogoGenerator(
         message,
         "hieu-ung-chu/tao-hieu-ung-chu-mam-anh-sang-74",
@@ -81,12 +81,12 @@ smd(
   async (message, match, { cmdName }) => {
     try {
       if (!match)
-        return message.reply(`*_Example : ${prefix + cmdName} Ednut-Md_*`);
+        return message.reply(`*_Example : ${prefix + cmdName} Richuy-Md_*`);
       return await textToLogoGenerator(
         message,
         "tao-hieu-ung-chu-digital-glitch-truc-tuyen-941",
         match,
-        "ednut",
+        "richy",
         "1"
       );
     } catch (e) {
@@ -110,7 +110,7 @@ smd(
         message,
         "tao-hieu-ung-chu-pixel-glitch-truc-tuyen-940",
         match,
-        "ednut",
+        "richy",
         "1"
       );
     } catch (e) {
@@ -130,12 +130,12 @@ smd(
   async (message, match, { cmdName }) => {
     try {
       if (!match)
-        return message.reply(`*_Example : ${prefix + cmdName} Ednut-Md_*`);
+        return message.reply(`*_Example : ${prefix + cmdName} Richy-Md_*`);
       return await textToLogoGenerator(
         message,
         "tao-hieu-ung-chu-graffiti-duong-pho-an-tuong-online-795",
         match,
-        "ednut",
+        "richy",
         "1"
       );
     } catch (e) {
@@ -160,7 +160,7 @@ smd(
         message,
         "hieu-ung-chu/chu-graffiti-online-mau-8-182",
         match,
-        "Ednut",
+        "Richy",
         "1"
       );
     } catch (e) {
