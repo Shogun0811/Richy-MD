@@ -54,7 +54,7 @@ smd({
     if (_0x4a2c9b && mtypes.includes(_0x4a2c9b?.mtype || "need_Media")) {
       let _0x313fc1 = await _0x4a2c9b.download();
       let _0x37d0ee = {
-        pack: "Ednut-Md",
+        pack: "Richy-Md",
         author: Config.author,
         type: StickerTypes.FULL,
         quality: 10
@@ -82,7 +82,7 @@ smd({
     }
     let _0x44d3dd = _0x3febcd.split("|");
     let _0x47c982 = _0x44d3dd[0]?.trim() !== "" ? _0x44d3dd[0] : _0x471740.pushName;
-    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "Ednut-Md";
+    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "Richy-Md";
     let _0x3ab776 = await _0xad98fb.download();
     let _0x3d0871 = {
       pack: _0x47c982,
