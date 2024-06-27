@@ -1192,7 +1192,7 @@ const {
        forwardingScore: 999,
        isForwarded: true,
        externalAdReply: {
-         title: "Ednut-Md Broadcast",
+         title: "Richy-Md Broadcast",
          body: _0x553d05.senderName,
          renderLargerThumbnail: true,
          thumbnail: log0,
