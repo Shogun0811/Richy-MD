@@ -393,7 +393,7 @@ cmd(
         return _0xcffaeb.reply(
           "Please Give Me User Name, \n *Example : " +
             prefix +
-            "vcard Ednut Tech Info* "
+            "vcard Richy Tech Info* "
         );
       }
       var _0x423556 = _0x4158fc.split(" ");
@@ -564,7 +564,7 @@ cmd(
     desc: "download viewOnce Message.",
     category: "whatsapp",
     use: "<query>",
-    react: "🦄",
+    react: "👀",
     filename: __filename,
   },
   async (_0x5e331d, _0x237d8a) => {
