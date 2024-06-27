@@ -79,7 +79,7 @@ smd({
       message,
       'tao-hieu-ung-chu-digital-glitch-truc-tuyen-941',
       match,
-      'Ednut',
+      'Richy',
       '1'
     );
   } catch (e) {
@@ -98,7 +98,7 @@ smd({
       message,
       'tao-hieu-ung-chu-pixel-glitch-truc-tuyen-940',
       match,
-      'Ednut',
+      'Richy',
       '1'
     );
   } catch (e) {
@@ -118,7 +118,7 @@ smd({
       message,
       'tao-hieu-ung-chu-graffiti-duong-pho-an-tuong-online-795',
       match,
-      'Ednut',
+      'Richy',
       '1'
     );
   } catch (e) {
@@ -138,7 +138,7 @@ smd({
       message,
       'hieu-ung-chu/chu-graffiti-online-mau-8-182',
       match,
-      'Ednut',
+      'Richy',
       '1'
     );
   } catch (e) {
