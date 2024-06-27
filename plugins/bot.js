@@ -268,7 +268,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/48d9d8a175d42cd537c5b.jpg",
+            "https://telegra.ph/file/cf2dbeb947cf2a0c90d22.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -922,9 +922,9 @@ events.cmd({
     }
     let _0x14cff4 = [...new Set([..._0x35816f.filter(_0x2822d6 => _0x2822d6.user).map(_0x2b342c => _0x2b342c.user)])];
     if (!_0x14cff4 || !_0x14cff4[0]) {
-      return await _0x48b928.reply("*There's no user has shared 'Ednut md'!*");
+      return await _0x48b928.reply("*There's no user has shared 'Richy md'!*");
     }
-    let _0x1b2187 = "*[Ednut-MD Rent list]*\n\n";
+    let _0x1b2187 = "*|RICHY-MD Rent list]*\n\n";
     let _0x261278 = [];
     let _0xa5efb9 = 1;
     for (let _0x5adbc2 of _0x14cff4) {
@@ -976,7 +976,7 @@ events.cmd({
         mentions: [_0x34f1e0]
       });
     } else {
-      return await _0x5d40b9.reply("*There's no user who has shared 'Ednut md'!*");
+      return await _0x5d40b9.reply("*There's no user who has shared 'Richy md'!*");
     }
   } catch (_0x5bad57) {
     _0x5d40b9.reply("_ERROR!_");
@@ -1164,7 +1164,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
       await _0x311b10(_0x3c1a40, "file");
     } catch (_0x5401eb) {}
     if (_0x235024.type === "session") {
-      var _0xc4323e = ("" + _0x235024[_0x235024.type]).replace(/^SESSION_\d{2}_\d{2}_\d{2}_\d{2}_/, "").replace(/Ednut;;;/gi, "").replace(/EdnutX;;;/gi, "").replace(/Ednut-Md;;;/gi, "").replace(/^EDNUT_\d{2}_\d{2}_\d{2}_\d{2}_/, "").trim();
+      var _0xc4323e = ("" + _0x235024[_0x235024.type]).replace(/^SESSION_\d{2}_\d{2}_\d{2}_\d{2}_/, "").replace(/Richy;;;/gi, "").replace(/RichyX;;;/gi, "").replace(/Richy-Md;;;/gi, "").replace(/^RICHY_\d{2}_\d{2}_\d{2}_\d{2}_/, "").trim();
       var _0x3358ad = {};
       if (_0xc4323e && /guru/gi.test(_0xc4323e) && _0xc4323e.length < 50) {
         let _0x5f44c2 = global.gurupaste || "https://pastebin.guruapi.tech/pastes?action=getpaste&id=";
