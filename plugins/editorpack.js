@@ -102,10 +102,10 @@ smd({
     try{
         let mm =   m.image ? m : m.reply_message && m.reply_message.image ? m.reply_message : false; 
         
-  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} Ednut _:_ Bot*`
+  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} RICHY _:_ Bot*`
   if(!mm) {
     let str = `┌───〈 *ᴇᴅɪᴛᴏʀ ᴍᴇɴᴜ*  〉───◆
-│╭─────────────···✘
+│╭─────────────...
 ┴│▸
 ⬡│▸ ${gfxx.join(" \n⬡│▸ ")}
 ┬│▸
