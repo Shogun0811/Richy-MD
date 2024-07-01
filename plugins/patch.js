@@ -334,6 +334,8 @@ ${menuThemeFooter}
 ┃⛥|➣Develloper: SLG
 ┃❍╰─────────❍
 ╰═════════════════⊷
+         BY GEEK TECH
+    ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
       `
 
       for (const category in categorizedCommands) {
@@ -593,7 +595,7 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Richy-Md\n\n*Speed:* ${pingSeconds} seconds`;
+          const captionText = `RUCHY-MD\n\n*Speed:* ${pingSeconds} seconds`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -615,7 +617,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `Richy-Md\n\n*Speed:* ${pingSeconds} seconds`;
+          const captionText = `RICHY-MD\n\n*Speed:* ${pingSeconds} seconds`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
