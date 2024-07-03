@@ -203,7 +203,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "😅",
+    react: "🍷",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
@@ -323,15 +323,15 @@ ${menuThemeFooter}
       let menuText = `
 ╭═════❖𝙍𝙄𝘾𝙃𝙔-𝙈𝘿❖═════⊷
 ┃❍╭──────────────❍
-┃⛥|➣Prefix: ${Config.HANDLERS}
+┃⛥│➣Prefix: ${Config.HANDLERS}
 ┃⛥│➣User: ${Config.ownername}
 ┃⛥│➣ᴛɪᴍᴇ: ${currentTime}
 ┃⛥│➣ᴅᴀᴛᴇ: ${currentDate}
 ┃⛥│➣Version: 1.0.0
-┃⛥│Plugins: 400+
+┃⛥│➣Plugins: 400
 ┃⛥│➣Ram: ${formatp(os.totalmem() - os.freemem())} 
 ┃⛥│➣Uptime: ${runtime(process.uptime())}
-┃⛥|➣Develloper: SLG
+┃⛥│➣Develloper: SLG
 ┃❍╰─────────❍
 ╰═════════════════⊷
          BY GEEK TECH
