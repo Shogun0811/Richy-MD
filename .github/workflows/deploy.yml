@@ -30,4 +30,5 @@ jobs:
       run: npm install -g pm2 && npm i --legacy-peer-deps
 
     - name: Start 
-      run: npm run Richy-md
+      run: npm start
+      
