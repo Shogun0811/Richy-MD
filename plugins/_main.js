@@ -488,8 +488,8 @@ smd({
   try {
     let {
       data: _0x44f98c
-    } = await axios.get("https://api.github.com/repos/GEEKMD099/Richy-MD");
-    let _0x1c73f9 = ("\n Richy-Md github stat.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "") + " forks\n  *❲❒❳ Authors:* SLG\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/GEEKMD099/Richy-MD_\n  *❲❒❳ Scan:* " + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
+    } = await axios.get("https://api.github.com/repos/GEEKMDXINC/Richy-MD");
+    let _0x1c73f9 = ("\n Richy-Md github stat.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "") + " forks\n  *❲❒❳ Authors:* SLG\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/GEEKMDXINC/Richy-MD_\n  *❲❒❳ Scan:* " + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
     return await _0x45da98.sendUi(_0x45da98.jid, {
       caption: _0x1c73f9
     });
@@ -622,7 +622,7 @@ smd({
   alias: ["recognition", "anonychat"],
   desc: "Send message Annonymously",
   category: "ai",
-  use: "<Hii, Ednut>",
+  use: "<Hii, Richy>",
   filename: __filename
 }, async (_0x358984, _0x20693a, {
   smd: _0x12d243
