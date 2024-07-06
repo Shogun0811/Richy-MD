@@ -38,8 +38,13 @@ RICHY-MD- Simple Multi Device whatsapp bot.
     <br>
 <a href='https://geek-paring-code.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 <br>
+
 #### DEPLOY TO REPLIT
-<p align="center"><a href="https://Replit.com"> <img src="https://img.shields.io/badge/Replit%20Deploy-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+<br>
+
+<p align="center"><a href="https://Replit.com"> <img src="https://img.shields.io/badge/Replit%20Deploy-yellow?style=for-the-badge&logo=Replit" width="220" height="38.45"/></a></p>
 
 
 
