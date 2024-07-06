@@ -334,8 +334,14 @@ ${menuThemeFooter}
 ┃⛥│➣Develloper: SLG
 ┃❍╰─────────❍
 ╰═════════════════⊷
-         BY GEEK TECH
-    ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+│ 
+└┬❍
+┌┤✑worktype : private $
+│└────────────┈ ❍     
+│© *RICHY-MD*
+└─────────────────┈❍
+      
+    ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
       `
 
       for (const category in categorizedCommands) {
