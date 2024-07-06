@@ -5,15 +5,15 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/GEEKMD099"><img title="Author" src="https://img.shields.io/badge/GEEKMD099-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237620857930"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/GEEKMDXINC"><img title="Author" src="https://img.shields.io/badge/GEEKMDXINC-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237620857930"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo"><img title="Author" src="https://img.shields.io/badge/SUPPORT GC-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://t.me/@ednut_x"><img    title="Author" src="https://img.shields.io/badge/CHAT ME-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/@Ruben"><img    title="Author" src="https://img.shields.io/badge/CHAT ME-black?style=for-the-badge&logo=Telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/GEEKMD099?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GEEKMD099?label=Followers&style=social"></a>
-<a href="https://github.com/GEEKMD099/Richy-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GEEKMDO99/Richy-MD?&style=social"></a>
-<a  href="https://github.com/GEEKMDO99/Richy-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/GEEKMDO99/Richy-MD?style=social"></a>
-<a href="https://github.com/GEEKMD099/Richy-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GEEKMD099/RICHY-MD?label=Watching&style=social"></a>
+<a href="https://github.com/GEEKMDXINC?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GEEKMDXINC?label=Followers&style=social"></a>
+<a href="https://github.com/GEEKMDXINC/Richy-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GEEKMDXINC/Richy-MD?&style=social"></a>
+<a  href="https://github.com/GEEKMDXINC/Richy-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/GEEKMDXINC/Richy-MD?style=social"></a>
+<a href="https://github.com/GEEKMDXINC/Richy-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GEEKMDINC/RICHY-MD?label=Watching&style=social"></a>
 </p>
 
 ####  
@@ -25,7 +25,7 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/GEEKMD099/Richy-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> <br>
+<a href='https://github.com/GEEKMDXINC/Richy-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> <br>
 
 <h2><strong>Use paring code QR doe's not work for a moment</strong></h2>
 
@@ -37,6 +37,10 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 3. Get Session ID (SCAN QR)
     <br>
 <a href='https://geek-paring-code.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<br>
+#### DEPLOY TO REPLIT
+<p align="center"><a href="https://Replit.com"> <img src="https://img.shields.io/badge/Replit%20Deploy-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 
 #### DEPLOY TO HEROKU
@@ -47,7 +51,7 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 
 2. If you Have Heroku Deploy Now
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GEEKMD099/Richy-MD"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku>"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GEEKMDXINC/Richy-MD"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku>"/></a></p>
 
 ```
 Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Eco Dynos too.
@@ -57,7 +61,7 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 
 1. if you don't have a koyeb account. Create an account.
    <br>
-   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
+   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-black?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
 
 2. Deploy on Koyeb
    <br>
