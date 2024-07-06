@@ -334,9 +334,9 @@ ${menuThemeFooter}
 ┃⛥│➣Develloper: SLG
 ┃❍╰─────────❍
 ╰═════════════════⊷
-│ 
+│ *by richy team*
 └┬❍
-┌┤✑worktype : private $
+┌┤✑worktype: ${Config.WORKTYPE}
 │└────────────┈ ❍     
 │© *RICHY-MD*
 └─────────────────┈❍
