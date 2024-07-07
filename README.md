@@ -85,6 +85,9 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
    - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
 - Go to <b>Deployments</b> and wait for deplyment to complete.
 - and you're good to go.
+  <br>
+#### Thanks to 
+[EDNUT FOR DATA BASE](HTTPS://github.com/Ednut001)
   
 
 - Star ⭐ the repo if you like RICHY-MD.
