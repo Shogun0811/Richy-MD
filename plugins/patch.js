@@ -348,7 +348,7 @@ ${menuThemeFooter}
     ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
       `
 
-      for (const category  categorizedCommands) {
+      for (const category in categorizedCommands) {
         menuText += `
         ${menuThemeCategoryHeader} *${tiny(
           category
