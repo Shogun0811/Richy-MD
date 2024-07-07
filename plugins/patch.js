@@ -98,13 +98,11 @@ astro_patch.smd(
       ) {
         menuThemeHeader = "┏━﹝ *" + Config.botname + "* ﹞";
         menuThemeCommandPrefix = "┃ ✗";
-        menuThemeFooter = "┗━━━━━━━━━━━━━━━❍
-        ";
+        menuThemeFooter = "┗━━━━━━━━━━━━━❍";
         menuThemeCategoryHeader = "┌『";
         menuThemeCategoryFooter = "』";
         menuThemeCommandPrefix = " |➣ ";
-        menuThemeCommandFooter = "\n┗━━━━━━━━━━━━━━━❍ 
-        ";
+        menuThemeCommandFooter = "\n┗━━━━━━━━━━━━━❍";
       } else if (
         menuThemeType === 2 ||
         Config.menu.trim().startsWith("2") ||
@@ -153,13 +151,12 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
   ${menuThemeFooter}\n                   
-┌┤➣ Thanks choose Richy-MD
-│└────────────┈ ⳹        
-│ ©2024-2099 Richy
-└─────────────────┈ ⳹
+┌┤✑ Thanks for choosing RICHY MD
+│└─────────────────┈ ❍        
+│*©2024-2099 RICHY*
+└─────────────────┈ ❍
  > 𝑅𝛪𝐶𝛨𝑌-𝛭𝐷 𝛻1.7.5 𝐿𝛥𝑆𝑇𝛯𝑆𝑇
  > 𝛲𝛩𝑊𝛯𝑅𝛯𝐷 𝐵𝑌 𝑅𝛪𝐶𝛨𝑌 𝑇𝛯𝐶𝛨
- 
   \n${readmore}\n`;
 
       for (const category in categorizedCommands) {
