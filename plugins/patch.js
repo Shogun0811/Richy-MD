@@ -328,12 +328,13 @@ ${menuThemeFooter}
 ┃⛥│➣ᴛɪᴍᴇ: ${currentTime}
 ┃⛥│➣ᴅᴀᴛᴇ: ${currentDate}
 ┃⛥│➣Version: 1.0.0                        
-┃⛥└ ─────────────
+┃⛥└───────────────❍
+┃⛥╭───────────────❍
 ┃⛥│➣Plugins:  400
 ┃⛥│➣Ram: ${formatp(os.totalmem() - os.freemem())} 
 ┃⛥│➣Uptime: ${runtime(process.uptime())}
 ┃⛥│➣Develloper: SLG
-┃❍╰─────────────❍
+┃❍╰───────────────❍
 ╰═════════════════⊷
 │ *by richy team*
 └┬❍
