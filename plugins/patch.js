@@ -320,19 +320,19 @@ ${menuThemeCommandPrefix} │Ram: ${formatp(os.totalmem() - os.freemem())}
 ${menuThemeCommandPrefix} │Uptime: ${runtime(process.uptime())}
 ${menuThemeFooter}                         
 `;*/
-      let menuText = `
-╭═════❖𝙍𝙄𝘾𝙃𝙔-𝙈𝘿❖═════⊷
+      let menuText = `╭═════❖𝙍𝙄𝘾𝙃𝙔-𝙈𝘿❖═════⊷
 ┃❍╭──────────────❍
 ┃⛥│➣Prefix: ${Config.HANDLERS}
 ┃⛥│➣User: ${Config.ownername}
 ┃⛥│➣ᴛɪᴍᴇ: ${currentTime}
 ┃⛥│➣ᴅᴀᴛᴇ: ${currentDate}
-┃⛥│➣Version: 1.0.0
-┃⛥│➣Plugins: 400
+┃⛥│➣Version: 1.0.0                        
+┃⛥└ ─────────────
+┃⛥│➣Plugins:  400
 ┃⛥│➣Ram: ${formatp(os.totalmem() - os.freemem())} 
 ┃⛥│➣Uptime: ${runtime(process.uptime())}
 ┃⛥│➣Develloper: SLG
-┃❍╰─────────❍
+┃❍╰─────────────❍
 ╰═════════════════⊷
 │ *by richy team*
 └┬❍
@@ -340,11 +340,15 @@ ${menuThemeFooter}
 │└────────────┈ ❍     
 │© *RICHY-MD*
 └─────────────────┈❍
-      
+  {readmore}  
+     > 𝑅𝛪𝐶𝛨𝑌-𝛭𝐷 𝛻1.7.5 𝐿𝛥𝑆𝑇𝛯𝑆𝑇
+     > 𝛲𝛩𝑊𝛯𝑅𝛯𝐷 𝐵𝑌 𝑅𝛪𝐶𝛨𝑌 𝑇𝛯𝐶𝛨  
+    > Hii ${(config.ownername)}
+     > type allmenu for m'y cmd
     ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
       `
 
-      for (const category in categorizedCommands) {
+      for (const category  categorizedCommands) {
         menuText += `
         ${menuThemeCategoryHeader} *${tiny(
           category
