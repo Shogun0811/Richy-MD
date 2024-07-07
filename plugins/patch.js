@@ -337,9 +337,7 @@ ${menuThemeFooter}
 ┃❍╰───────────────❍
 ╰═════════════════⊷
 │ *by richy team*
-└┬❍
-┌┤✑worktype: ${Config.WORKTYPE}
-│└────────────┈ ❍     
+└┬  
 │© *RICHY-MD*
 └─────────────────┈❍
    
