@@ -101,7 +101,7 @@ astro_patch.smd(
         menuThemeFooter = "┗━━━━━━━━━━━━━❍";
         menuThemeCategoryHeader = "┌『";
         menuThemeCategoryFooter = "』";
-        menuThemeCommandPrefix = " |➣ ";
+        menuThemeCommandPrefix = " ¤|➣ ";
         menuThemeCommandFooter = "\n┗━━━━━━━━━━━━━❍";
       } else if (
         menuThemeType === 2 ||
@@ -110,19 +110,19 @@ astro_patch.smd(
       ) {
         menuThemeHeader = "┌═[ *" + Config.botname + "* ]";
         menuThemeCommandPrefix = "¤│▸";
-        menuThemeFooter = "╰════════════···▸";
+        menuThemeFooter = "┗━━━━━━━━━━━━━❍";
         menuThemeCategoryHeader = "┌〈";
         menuThemeCategoryFooter = "〉";
-        menuThemeCommandPrefix = "¤│▸ ";
-        menuThemeCommandFooter = "\n│╰══════════···▸▸";
+        menuThemeCommandPrefix = "¤│➣ ";
+        menuThemeCommandFooter = "\n│┗━━━━━━━━━━━━━❍";
       } else {
         menuThemeHeader = "╭〘  " + Config.botname + "  〙";
         menuThemeCommandPrefix = "│ │";
-        menuThemeFooter = "╰═══════════════⊷";
-        menuThemeCategoryHeader = "╭─❏";
-        menuThemeCategoryFooter = "❏";
-        menuThemeCommandPrefix = "│";
-        menuThemeCommandFooter = "╰════════════─⊷";
+        menuThemeFooter = "┗━━━━━━━━━━━━━❍";
+        menuThemeCategoryHeader = "┌〈";
+        menuThemeCategoryFooter = "〉";
+        menuThemeCommandPrefix = "¤│➣";
+        menuThemeCommandFooter = "┗━━━━━━━━━━━━━❍";
       }
 
       const categorizedCommands = {};
@@ -155,8 +155,8 @@ astro_patch.smd(
 │└─────────────────┈ ❍        
 │*©2024-2099 RICHY*
 └─────────────────┈ ❍
- > 𝑅𝛪𝐶𝛨𝑌-𝛭𝐷 𝛻1.7.5 𝐿𝛥𝑆𝑇𝛯𝑆𝑇
- > 𝛲𝛩𝑊𝛯𝑅𝛯𝐷 𝐵𝑌 𝑅𝛪𝐶𝛨𝑌 𝑇𝛯𝐶𝛨
+> 𝑅𝛪𝐶𝛨𝑌-𝛭𝐷 𝛻1.7.5 𝐿𝛥𝑆𝑇𝛯𝑆𝑇 
+> 𝛲𝛩𝑊𝛯𝑅𝛯𝐷 𝐵𝑌 𝑅𝛪𝐶𝛨𝑌 𝑇𝛯𝐶𝛨
   \n${readmore}\n`;
 
       for (const category in categorizedCommands) {
