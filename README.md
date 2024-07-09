@@ -31,12 +31,12 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 
 2. Get Session ID (PAIRING)
     <br>
-<a href='https://geek-paring-code.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=black'/></a>
 
 
 3. Get Session ID (SCAN QR)
     <br>
-<a href='https://geek-paring-code.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://richy-md-qr.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 <br>
 
 #### DEPLOY TO REPLIT
