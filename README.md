@@ -31,7 +31,7 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 
 2. Get Session ID (PAIRING)
     <br>
-<a href='' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=black'/></a>
+<a href='' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=green'/></a>
 
 
 3. Get Session ID (SCAN QR)
